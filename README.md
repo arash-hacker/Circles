@@ -5,7 +5,8 @@ A fractal packing of circles with smaller circles, demonstrating Descartes's the
 
 Wikipedia: "Apollonian gasket"     
 Wikipedia: "Descartes' theorem"           
-![mov](https://user-images.githubusercontent.com/6451804/196033089-32159bef-76b0-478c-ae07-d947c3f18eaf.mov)  
+![pic](pic2.png)     
+![pic](pic.png)
 
 
 
